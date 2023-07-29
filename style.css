@@ -1,0 +1,244 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    width: auto;
+    height: 100px;
+    background-color: antiquewhite;
+    display: flex;
+    justify-content: space-between;
+}
+
+.header-1{
+    width: 150px;
+    height: 70px;
+    
+}
+.header-2{
+    width: 400px;
+    height: 70px;
+   
+    margin: 10px;
+}
+.head-2{
+    width: 300px;
+    height: 40px;
+    text-align: center;
+    margin: 10px;
+    background-color: aqua;
+    border-radius: 10px;
+    border: none;
+}
+.main{
+    width: auto;
+    height: 550px;
+    display: flex;
+}
+.right{
+    width: 1065px;
+    height: 550px;
+    
+    
+   background-color: rgb(209, 204, 204);
+}
+.left{
+    width: 450px;
+    height: 550px;
+   
+}
+.top{
+    width: 450px;
+    height: 270px;
+    margin-bottom: 10px;
+    background-color:gainsboro;
+}
+.first-3{
+    width: 450px;
+    height: 50px;
+    background-color: rgb(240, 246, 244);
+}
+
+.first-3 button{
+    width: 170px;
+    height: 40px;
+    margin: 5px;
+    border-radius: 10px;
+    border: none;
+    cursor: pointer;
+  transition: background-color 0.2s ease;
+}
+.first-3 button:hover{
+    background-color: rgb(145, 145, 228);
+}
+.first-4{
+    width: 400px;
+    
+    background-color: rgb(238, 241, 240);
+    margin-top: 10px;
+    height: 50px;
+   border-radius: 25px;
+    margin-left: 15px;
+    display: flex;
+}
+.image-2{
+    width: 40px;
+    height: 40px;
+    background-color: darkblue;
+    border-radius: 50px;
+    margin-left: 10px;
+    margin-top: 5px;
+   
+    
+  
+  
+    
+}
+.first-4 h4{
+    margin: 15px;
+}
+i{
+ margin-top:15px ;
+ margin-left: 50px;
+ 
+}
+.down{
+    width: 450px;
+    height: 270px;
+    margin-bottom: 10px;
+    background-color:gainsboro;
+}
+.first-1{
+    width: 450px;
+    height: 50px;
+    background-color: rgb(240, 243, 242);
+    margin-top: 10px;
+   
+    
+}
+.first-2{
+    width: 450px;
+    height: 50px;
+    
+    margin-top: 10px;
+    display: flex;
+    justify-content: space-between;
+    
+}
+.first-1 button{
+    width: 120px;
+    height: 40px;
+    cursor: pointer;
+  transition: background-color 0.2s ease;
+   
+    
+    border-radius: 10px;
+    border: none;
+
+    
+}
+.first-1 button:hover{
+    background-color: rgb(113, 113, 238);
+}
+
+.image-1{
+    width: 40px;
+    height: 40px;
+    background-color: darkblue;
+    border-radius: 50px;
+    margin: 5px;
+}
+.content{
+    width: 300px;
+    height: 35px;
+    margin: 5px;
+    border-radius: 5px;
+    background-color: antiquewhite;
+    text-align: center;
+    padding-top: 5px;
+    font-size: large;
+}
+.time-box{
+  
+    margin: 15px;
+    text-align: center;
+    font-size: 10px;
+}
+.first-row{
+    width: 1050px;
+    height: 400px;
+    margin: 5px;
+   border-radius: 20px;
+   border: none;
+    background-color: rgb(212, 29, 29);
+}
+.second-row{
+    width: 1050px;
+    height: 130px;
+    margin: 5px;
+    display: flex;
+
+    
+   
+   
+    
+}
+.img{
+    width: 250px;
+    height: 125px;
+    margin: 5px;
+    margin-right: 10px;
+    background-color: blueviolet;
+    border-radius: 20px;
+    border: none;
+
+}
+footer{
+    width: auto;
+    height: 100px;
+    background-color: antiquewhite;
+    display: flex;
+}
+.manu{
+    width: 1060px;
+    height: 70px;
+    background-color: rgb(248, 239, 246);
+    justify-content: space-between;
+    display:flex;
+    
+
+}
+.manu i{
+    margin-left: 20px;
+    align-items: center;
+    cursor: pointer;
+   
+}
+.manu button{
+    width: 70px;
+    height: 40px;
+    margin: 15px;
+    border-radius: 10px;
+    background-color: red;
+    color: #edebeb;
+    border: none;
+    cursor: pointer;
+}
+.manu-1{
+    width: 450px;
+    height: 70px;
+    background-color: rgb(244, 237, 237);
+}
+.manu-1 input{
+    width: 340px;
+    height: 40px;
+    background-color: gray;
+    margin: 10px;
+    
+    border-radius: 5px;
+    border: none;
+}
+.manu-1 i{
+    margin-right: 15px;
+    cursor: pointer;
+}
